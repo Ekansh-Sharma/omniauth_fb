@@ -48,4 +48,4 @@ end
 gem 'therubyracer'
 gem 'devise'
 gem 'omniauth'
-gem 'omniauth-digitalocean'
+gem 'omniauth-facebook'
